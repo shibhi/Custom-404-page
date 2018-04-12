@@ -1,0 +1,2 @@
+# Custom-404-page
+This is a free custom 404 page template. 404 error pages are displayed when the page you are trying to open can't be found on the site's server for a variety of reasons. This impact your site's usability. Generic 404 error pages strand users on a page with no links or suggestions of what to do next.  Use a custom 404 page to reduce customer frustration and link to other pages on your site. Make sure it returns the 404 http status code.
